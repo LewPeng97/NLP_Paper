@@ -1,4 +1,4 @@
-##### Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model
+### Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model
 
 #### 摘要
 <font face="宋体">&emsp;&emsp;自动文章评论有助于鼓励用户参与和在线新闻平台上的互动。然而，对于传统的基于encoder-decoder的模型来说，新闻文档通常太长，这往往会导致一般性和不相关的评论。在本文中，我们提出使用一个Graph-to-Sequence的模型来生成评论，该模型将输入的新闻建模为一个主题交互图。通过将文章组织成图结构，我们的模型可以更好地理解文章的内部结构和主题之间的联系，这使得它能够更好地理解故事。我们从中国流行的在线新闻平台Tencent Kuaibao上收集并发布了一个大规模的新闻评论语料库。广泛的实验结果表明，与几个强大的baseline模型相比，我们的模型可以产生更多的连贯性和信息丰富性的评论。
