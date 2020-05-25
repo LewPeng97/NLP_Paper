@@ -13,4 +13,4 @@
 ### Transformer
 ##### Paper1：[arXiv|Attention is All You Need][adress3]
 [adress3]:https://kexue.fm/archives/4765
-本文的创新点在于抛弃了之前传统的encoder-decoder模型必须结合cnn或者rnn的固有模式，只用attention
+本文的创新点在于抛弃了之前传统的encoder-decoder模型必须结合cnn或者rnn的固有模式，只用attention,且开创了self-attention时代，引发BERT等预训练模型飞速发展
